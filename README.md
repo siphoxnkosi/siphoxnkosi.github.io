@@ -1,6 +1,6 @@
-# Sean Nkosi – Personal Site
+# Sean Nkosi – Personal Site (and Playground)
 
-This repository hosts the source for [siphoxnkosi.github.io](https://siphoxnkosi.github.io), Sean Nkosi’s personal CV and portfolio site. It is based on Creative Tim’s Now UI Kit and includes custom styling and content updates tailored to Sean’s current experience.
+This repo powers [siphoxnkosi.github.io](https://siphoxnkosi.github.io), the CV/portfolio of Sean Nkosi: developer by trade, consultant by habit, serial offender of the “just one more tweak” commit. It rides on Creative Tim’s Now UI Kit with custom styling that makes it feel like my site and not a template I swore I wouldn’t fork at 2 a.m.
 
 ## Structure
 
@@ -15,6 +15,13 @@ This repository hosts the source for [siphoxnkosi.github.io](https://siphoxnkosi
 2. Edit HTML/CSS directly; no build step is required.
 3. Keep external dependencies (fonts, icons, Bootstrap/Now UI scripts) referenced via CDN unless you plan to bundle them locally.
 
-## Deployment
+## Deployment (a.k.a. Living on the Edge)
 
-Push changes to the `main` branch (or the branch configured for GitHub Pages) and GitHub Pages will automatically rebuild the site.
+- Push to `main` like you mean it. Yes, really. GitHub Pages rebuilds automatically, and I promise to act surprised if I break production.
+- If you do open a PR, I’ll probably merge it from my phone while “consulting” on a client call. Multitasking is a skill, right?
+
+## About the Human Behind the Commits
+
+- Developer: writes tests, sometimes even before the bug report. Loves deleting code more than writing it.
+- Consultant: fluent in stakeholderese; can diagram your architecture on a napkin and expense the napkin.
+- Version control philosophy: “Move fast and make backups” — preferably in that order.
